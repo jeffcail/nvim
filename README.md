@@ -4,3 +4,10 @@
 ```shell
 git clone git@github.com:jeffcail/nvim.git ~/.config/nvim
 ```
+
+## 效果
+![nvim](./nvim.jpg)
+
+![nvim2](./nvim2.jpg)
+
+![nvim3](./nvim3.jpg)
